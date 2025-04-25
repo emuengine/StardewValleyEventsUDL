@@ -1,5 +1,5 @@
-# StardewValleyEventsUDL
-A user defined language for Stardew Valley events using Notepad++
+# Stardew valley events user defined language(UDL)
+A user defined language for Stardew Valley events using Notepad++. This allows you to create and edit events in stardew valley with syntax highlighting in Notepad++.
 
 ### Example
 ![example](https://github.com/user-attachments/assets/606d2428-3525-4c55-9997-d0bb7a72afab)
